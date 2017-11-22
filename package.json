@@ -1,0 +1,22 @@
+{
+  "name": "authapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.11",
+    "angular": "^1.6.6",
+    "angular-auth0": "^2.0.0",
+    "angular-jwt": "^0.1.9",
+    "angular-ui-router": "^0.4.3",
+    "auth0-js": "^8.11.2",
+    "bootstrap": "^3.3.7",
+    "express": "^4.16.2"
+  }
+}
